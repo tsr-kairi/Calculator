@@ -60,3 +60,15 @@ small {
   border-radius: 5px;
   padding: 1px;
 }
+
+.build {
+  margin-top: 40px;
+}
+.made {
+  background: none;
+  color: #ff00ea;
+}
+
+a {
+  text-decoration: none;
+}
